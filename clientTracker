@@ -1,0 +1,8 @@
+/*
+My first attempt to create a useful app.
+Organizes personal trainer client information in an easily 
+updated format. Syncs with calendar to ensure that PT has the right 
+training plan 
+*/
+
+void main(void)
